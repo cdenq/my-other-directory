@@ -13,6 +13,7 @@ Archived
 - [UPenn Bootcamp](https://github.com/cdenq/data-analytics-visualization-2021-penn-bootcamp)
 
 Pending
+- [MIT Book Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)
 - [Wenchen PhD Project](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
 - [Paladins Guru Scrapper](https://github.com/cdenq/video-game-performance-scraper-and-web-dashboard)
 - [Hotel Booking Project](https://github.com/cdenq/hotel-booking-platform-data-consulting)

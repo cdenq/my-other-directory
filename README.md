@@ -9,7 +9,7 @@ Utility
 - [Secret Storage](https://github.com/cdenq/secret-storage)
 
 Archived
-- [CSUN Repo](https://github.com/cdenq/csun-comp-452-slides), [Public]()
+- [CSUN Repo](https://github.com/cdenq/csun-comp-452-slides), [Public](https://github.com/cdenq/my-machine-learning-mit-book-study)
 - [UPenn Bootcamp](https://github.com/cdenq/data-analytics-visualization-2021-penn-bootcamp)
 
 Pending

@@ -13,6 +13,7 @@ Utility
 Archived
 - [CSUN Repo](https://github.com/cdenq/csun-comp-452-slides), [Public](https://github.com/cdenq/my-machine-learning-mit-book-study)
 - [UPenn Bootcamp](https://github.com/cdenq/data-analytics-visualization-2021-penn-bootcamp)
+- [Meta Coding](https://github.com/cdenq/my-meta-coding-repo)
 
 Pending
 - [MIT Book Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)

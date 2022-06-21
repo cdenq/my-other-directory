@@ -16,6 +16,7 @@ Archived
 - [Meta Coding](https://github.com/cdenq/my-meta-coding-repo)
 
 Pending
+- [Star-SQL-Repo](https://github.com/cdenq/my-select-star-sql-repo). A self-learning side project to learn about SQL using the [Select Star SQL Tutorial](https://selectstarsql.com/).
 - [MIT Book Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)
 - [Wenchen PhD Project](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
 - [Paladins Guru Scrapper](https://github.com/cdenq/video-game-performance-scraper-and-web-dashboard)

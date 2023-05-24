@@ -1,27 +1,42 @@
 # my-other-directory
-[![Website](https://img.shields.io/badge/Return%20to-Featured%20Projects-orange?style=flat-square&logo=appveyor)](https://github.com/cdenq)
 
-Directory of upkeep links; meant for private use only.
+### Archived
+- Old Projects
+    - [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+    - [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
 
-Update
-- [Resume](https://github.com/cdenq/denq-resume)
-- [Tofu Class](https://github.com/cdenq/tofu-coding-class)
+- Programming (Python/VBA)
+    - [Financial, Election Data](https://github.com/cdenq/financial-and-election-data-programming)
+    - [Foothill College Repo](https://github.com/cdenq/my-foothill-college-repo/)
+    - [Kickstarter Project Analysis](https://github.com/cdenq/kickstarter-project-analysis)
+    - [Stock Market Ticker Analysis](https://github.com/cdenq/stock-market-ticker-analysis)
+    - [Video Game Micro-Transaction Analysis](https://github.com/cdenq/video-game-micro-transaction-analysis)
 
-Utility
-- [Secret Storage](https://github.com/cdenq/secret-storage)
+- Front-End / Analytics, Dashboarding, Visualization
+    - Tableau: [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
+    - [Weather Dashboard Development](https://github.com/cdenq/web-dashboard-on-weather-data)
 
-Archived
-- [CSUN Repo](https://github.com/cdenq/csun-comp-452-slides), [Public](https://github.com/cdenq/my-machine-learning-mit-book-study)
-- [UPenn Bootcamp](https://github.com/cdenq/data-analytics-visualization-2021-penn-bootcamp)
-- [Meta Coding](https://github.com/cdenq/my-meta-coding-repo)
+### Unfinished
+- WIP
+    - NLP: [Social Media Sentiment Analysis](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
+- Ideas
+    - [Hotel Booking Project](https://github.com/cdenq/hotel-booking-platform-data-consulting)
+    - [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
+    - [Rental Seasonality Saving](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
 
-Pending
-- [Star-SQL-Repo](https://github.com/cdenq/my-select-star-sql-repo). A self-learning side project to learn about SQL using the [Select Star SQL Tutorial](https://selectstarsql.com/).
-- [MIT Book Notes](https://github.com/cdenq/my-machine-learning-mit-book-study)
-- [Wenchen PhD Project](https://github.com/cdenq/branding-analysis-of-top-nonprofit-phd-dissertation)
-- [Paladins Guru Scrapper](https://github.com/cdenq/video-game-performance-scraper-and-web-dashboard)
-- [Hotel Booking Project](https://github.com/cdenq/hotel-booking-platform-data-consulting)
-- [Rental Seasonality Saving](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
-
-Skeleton
-- []()
+### Private
+- Internal
+    - [secret-storage](https://github.com/cdenq/secret-storage)
+- Applications
+    - [Foothill AI Business Innovation Challenge](https://github.com/cdenq/foothill-business-innovation-challenge-2022)
+    - [General Assembly DSI](https://github.com/cdenq/kickstarter_check)
+    - [Inca Digital KYC Report](https://github.com/cdenq/inca-digital-remittance-kyc-report)
+- Curriculums
+    - [adobe](https://github.com/cdenq/adobe-ga-dsi)
+    - [cambridge](https://github.com/cdenq/ml-camp-0-participants)
+    - [upenn](https://github.com/cdenq/data-analytics-visualization-2021-penn-bootcamp)
+    - [ik](https://github.com/cdenq/interview-kickstart)
+- Research
+    - [stanford-research](https://github.com/cdenq/stanford-spar-2023)
+    - [cambridge-research](https://github.com/cdenq/cambridge-ml-program)
+    - [csun-research](https://github.com/cdenq/csun-comp-452-slides)

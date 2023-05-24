@@ -1,10 +1,6 @@
-# my-other-directory
+# Archived and Private Links
 
 ### Archived
-- Old Projects
-    - [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
-    - [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
-
 - Programming (Python/VBA)
     - [Financial, Election Data](https://github.com/cdenq/financial-and-election-data-programming)
     - [Foothill College Repo](https://github.com/cdenq/my-foothill-college-repo/)
@@ -40,3 +36,6 @@
     - [stanford-research](https://github.com/cdenq/stanford-spar-2023)
     - [cambridge-research](https://github.com/cdenq/cambridge-ml-program)
     - [csun-research](https://github.com/cdenq/csun-comp-452-slides)
+- Old Projects
+    - [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
+    - [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)

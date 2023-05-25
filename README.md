@@ -9,8 +9,9 @@
     - [Video Game Micro-Transaction Analysis](https://github.com/cdenq/video-game-micro-transaction-analysis)
 
 - Front-End / Analytics, Dashboarding, Visualization
-    - Tableau: [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
+    - [Bike Sharing Tableau Dashboard](https://github.com/cdenq/bike-sharing-tableau-dashboard)
     - [Weather Dashboard Development](https://github.com/cdenq/web-dashboard-on-weather-data)
+    - [Titanic Dataset](https://github.com/cdenq/titanic_data_eda)
 
 ### Unfinished
 - WIP

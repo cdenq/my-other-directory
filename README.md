@@ -1,8 +1,16 @@
-# Archived, Miscellaneous, and Private Links
+# Archived, Miscellaneous, and Private Project Directory
+<a href ="https://cdenq.github.io/"><img src="https://img.shields.io/badge/Featured on Website-8-brightgreen"></a>
+<a href ="https://github.com/cdenq/my-directory"><img src="https://img.shields.io/badge/Completed-20-blueviolet"></a>
+<a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Miscellaneous-12-blue"></a>
+<a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Archived-9-lightgray"></a>
+<a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Pending-17-yellow"></a>
+<a href ="https://github.com/cdenq/my-other-directory"><img src="https://img.shields.io/badge/Private-13-red"></a>
 
-NOTE: This only contains my personal projects completed outside of work roles. I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!
+#
 
-### Miscellaneous
+Note: This only contains my personal projects completed outside of work roles. I'd love to talk about my more recent work experience projects in a [LinkedIn 1:1](https://www.linkedin.com/in/christopherdenq); let's connect!
+
+## Miscellaneous
 - Links
     - [/cdenq](https://github.com/cdenq/cdenq)
     - [Repo Template](https://github.com/cdenq/my-template-repo)
@@ -19,7 +27,7 @@ NOTE: This only contains my personal projects completed outside of work roles. I
     - [Advent of Code 2021](https://github.com/cdenq/my-advent-of-code-2021-solves)
     - [Google Foobar 2022](https://github.com/cdenq/my-google-foobar-solves)
 
-### Archived
+## Archived
 - Programming (Python/VBA)
     - [Financial, Election Data](https://github.com/cdenq/financial-and-election-data-programming)
     - [Foothill College Repo](https://github.com/cdenq/my-foothill-college-repo/)
@@ -35,7 +43,7 @@ NOTE: This only contains my personal projects completed outside of work roles. I
 - AI/ML
     - SLR/MLR: [Sacramento Real Estate EDA](https://github.com/cdenq/sacramento-real-estate-eda)
 
-### Pending
+## Pending
 - Work in Progress
     - NLP: [Social Media Sentiment Analysis](https://github.com/cdenq/social-media-sentiment-analysis)
 - Transfer in Progress
@@ -57,7 +65,7 @@ NOTE: This only contains my personal projects completed outside of work roles. I
     - [Python Tutoring in Tofu Coding Class](https://github.com/cdenq/tofu-coding-class)
     - [Rental Seasonality Saving](https://github.com/cdenq/seasonality-analysis-for-rental-savings)
 
-### Private
+## Private
 - Internal
     - [secret-storage](https://github.com/cdenq/secret-storage)
 - Applications
@@ -76,3 +84,13 @@ NOTE: This only contains my personal projects completed outside of work roles. I
 - Old Projects
     - [Poisonous Mushroom Predictor](https://github.com/cdenq/mushroom-edibility-predictor-web-app)
     - [Streaming Service Analysis and Offer Characterization](https://github.com/cdenq/streaming-service-analysis-and-offer-characterization)
+
+#
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/christopherdenq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/cdenq"><img src="https://img.shields.io/badge/-Github-333?style=for-the-badge&logo=GitHub&logoColor=white"></a>
+  <a href="mailto:christopherdenq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"></a>
+  <a href="https://cdenq.github.io/"><img src="https://img.shields.io/badge/website-343434?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://discordapp.com/users/122537517835616257"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+</p>
